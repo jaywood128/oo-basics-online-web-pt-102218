@@ -37,8 +37,4 @@ class Shoe
     @size
   end
 
-  def
-    attr_accessor: :shoe
-  end
-
   end
