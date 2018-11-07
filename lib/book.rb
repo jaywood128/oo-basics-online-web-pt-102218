@@ -56,6 +56,8 @@ class Shoe
     @size
   end
 
-  def attr_accessor: shoe
+  def shoe
+    attr_accessor: shoe
+  end
 
   end
