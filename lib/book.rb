@@ -56,8 +56,10 @@ class Shoe
     @size
   end
 
-  def material=(material)
-    @material = material
+  def attr_accessor: shoe 
+
   end
+end
+  
 
 end
