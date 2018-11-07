@@ -1,3 +1,5 @@
+require "pry"
+
 class Book
   def initialize(title)
     @title = title
@@ -28,6 +30,6 @@ class Book
 end
 
 moby_dick = Book.new("Moby Dick")
-moby_dick.title 
+moby_dick.title
 moby_dick.author = "Ernest Hemingway"
 binding.pry
