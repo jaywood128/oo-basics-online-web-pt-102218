@@ -6,7 +6,7 @@ class Book
     @title
   end
 
-  
+
   end
   def author
     @name
