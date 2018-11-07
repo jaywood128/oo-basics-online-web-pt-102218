@@ -37,4 +37,4 @@ class Shoe
     @size
   end
 
-  end
+end
