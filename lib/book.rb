@@ -5,14 +5,5 @@ class Book
   def title
     @title
   end
-
-
-  end
-  def author
-    @name
-  end
-
-
-
   end
 end
