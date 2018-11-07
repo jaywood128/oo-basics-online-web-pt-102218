@@ -10,6 +10,7 @@ class Book
   end
   def author
     @name
+  end
 
 
 
