@@ -26,3 +26,8 @@ class Book
   end
 
 end
+
+moby_dick = Book.new("Moby Dick")
+moby_dick.title 
+moby_dick.author = "Ernest Hemingway"
+binding.pry
