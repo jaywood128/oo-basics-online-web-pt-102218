@@ -20,9 +20,8 @@ class Book
     @page_count
   end
 
-  def turn_page=(turn_page)
-    @turn_page = turn_page
-    puts "Flipping the page...wow, you read fast!"
+  def turn_page
+  puts "Flipping the page...wow, you read fast!"
   end
   def turn_page
     @turn_page
