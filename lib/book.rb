@@ -41,7 +41,7 @@ class Shoe
   end
 
   def
-    attr_accessor: shoe
+    attr_accessor: :shoe
   end
 
   end
