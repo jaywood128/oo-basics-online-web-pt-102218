@@ -53,5 +53,7 @@ class Shoe
     @condition
   end
 
+  def cobble
+  end
 
 end
