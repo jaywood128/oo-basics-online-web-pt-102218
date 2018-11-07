@@ -32,11 +32,11 @@ class Book
   end
 end
 
-class Shoe 
+class Shoe
   def initialize(brand)
     @brand = brand
   end
-  
+
   def brand
     @brand
   end
