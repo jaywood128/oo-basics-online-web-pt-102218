@@ -59,4 +59,3 @@ class Shoe
   def attr_accessor: shoe
 
   end
-end
