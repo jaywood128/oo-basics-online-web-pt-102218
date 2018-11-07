@@ -7,11 +7,15 @@ class Book
     @title
   end
 
-  def authors_name=(author)
-    @author = author
-  end
+  def attr_accessor: author
 
-  def author
-    @author
   end
 end
+    #authors_name=(author)
+    #@author=author
+  #end
+
+  #def author
+    #@#author
+  #end
+#end
